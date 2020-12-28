@@ -17,7 +17,7 @@ tag: English, Chinese
 
 ## 2021 新年音乐会“焕燃亿心”
 
-![焕燃亿心](IMG_2459.JPG)
+![焕燃亿心](https://jiaobenhaimo.github.io/IMG/IMG_2459.JPG)
 
 ## Actor lists 演员列表
 
