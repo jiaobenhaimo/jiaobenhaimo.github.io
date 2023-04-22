@@ -1,0 +1,40 @@
+title: Jacques Jiao's Blog
+author: Jacques Jiao
+email: jiaobenhaimo@outlook.com
+description: 
+A ordinary high school student from Qingdao, China. Classical music, technology, & animé maniac. 
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: /texture
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+
+permalink: /posts/:title/
+texture:
+  title: Jacques Jiao's Blog
+  tagline: An ridiculous ordinary student. 
+  date_format: "%b %d, %Y"
+  style: black
+  showNav: false
+  showPicker: true
+
+  # generate social links in footer
+  social_links:
+    twitter: YuanzheJ
+    github:  jiaobenhaimo
+    bilibili: 焦本海默
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+# theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
