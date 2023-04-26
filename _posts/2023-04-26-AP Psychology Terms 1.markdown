@@ -14,7 +14,7 @@ Foot-in-the-Door Phem – tendency to apply w/ larger requests after responding 
 
 Zimbardo – Stanford Prison Experiment/Lucifer Effect – Role Playing: People take on the role of what they feel are proper for the situation
 
-Cognitive Dissonance – people change their behavior to avoid looking bad, ieperson is against gay rights then becomes gay, he will change attitude to gay rights activist Asch – conformity – tendency to go along with the views and actions of others, even if you know they are wrong – line test
+Cognitive Dissonance – people change their behavior to avoid looking bad, ie. person is against gay rights then becomes gay, he will change attitude to gay rights activist Asch – conformity – tendency to go along with the views and actions of others, even if you know they are wrong – line test
 
 Milgram – obedience – people tend to obey authority figures; 60% of participant thought they delivered the max possible level of shock
 
@@ -42,7 +42,9 @@ predicted it beforehand and may contribute to blaming the victim and forming pre
 
 Prejudice – unjustifiable attitude towards a group and its members
 
-Mere exposure effect – the mere exposure to a stimulus will increase the liking of it Altruism – unselfish regard for the welfare to others
+Mere exposure effect – the mere exposure to a stimulus will increase the liking of it 
+
+Altruism – unselfish regard for the welfare to others
 
 Bystander effect – tendency for any given bystander to be less likely to give aid if other bystanders are present
 
@@ -52,15 +54,25 @@ Biological – explore the links between brain and mind
 
 Cognitive – study how we perceive, thinks, and solve problems
 
-Humanistic – study that says that humans are basically good and possess a free-will Behavioral – study that says all beh is observable and measurable
+Humanistic – study that says that humans are basically good and possess a free-will 
 
-Psychoanalytic – study of the unconscious, includes childhood and aggression issues Sociocultural – study of how cultural and political experiences affect our life Evolutionary – study of the evolutionary of humans over time (from apes) Developmental – study of our changing abilities from womb to tomb
+Behavioral – study that says all beh is observable and measurable
+
+Psychoanalytic – study of the unconscious, includes childhood and aggression issues 
+
+Sociocultural – study of how cultural and political experiences affect our life 
+
+Evolutionary – study of the evolutionary of humans over time (from apes) 
+
+Developmental – study of our changing abilities from womb to tomb
 
 Wilhelm Wundt – father of psychology
 
 Introspection – looking inward at one’s own mental processes
 
-Structuralism – analyze sensations, images, and feelings into their most basic elements William James – the brain and mind are constantly changing
+Structuralism – analyze sensations, images, and feelings into their most basic elements 
+
+William James – the brain and mind are constantly changing
 
 Functionalism – underlying causes and practical consequences of certain behaviors and mental strategies – “steam of consciousness”
 
