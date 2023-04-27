@@ -3,7 +3,7 @@ layout: post
 title: AP Psychology Must Know Terms (Part 2)
 category: Storage
 tag: English
-time: 2023-04-28 21:30:00 +0800
+time: 2023-04-27 21:30:00 +0800
 ---
 
 Consciousness – our awareness of ourselves and our environment
