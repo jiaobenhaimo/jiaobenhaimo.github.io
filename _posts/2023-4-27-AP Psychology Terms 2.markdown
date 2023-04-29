@@ -278,9 +278,9 @@ Self-concept – all our thoughts are feelings about ourselves in answer to the 
 
 Real self – who you really are, in terms of personality
 
-Ideal self – who you want to be, your perfect versionUnconditional 
+Ideal self – who you want to be, your perfect version
 
-Positive Regard – an attitude of total acceptance towards another person 
+Unconditional Positive Regard – an attitude of total acceptance towards another person 
 
 Trait Theory – study, define, and track one’s traits over their life time, they don’t care about the why, just what they are
 
@@ -330,4 +330,4 @@ there will probably be a question or two saying, so and so has these symptoms, w
 -  Schizophrenia!!! – symptoms, types (paranoid, cationic, etc.), and factors 
 -  Just have a basic understanding of the terms for therapy, there will be about 3 questions asking which type it is, think smart. 
 
-If the question says, “James suffers from Parkinson’s diseases, as a treatment, his doctor prescribed medicine to increase the amount of dopamine secreted by the brain, what type of therapy is this?” What perspective deals with chemical imbalances in the brain? Cognitive, therefore, the correct answer will probably be along the lines of cognitive therapy 
+If the question says, “James suffers from Parkinson’s diseases, as a treatment, his doctor prescribed medicine to increase the amount of dopamine secreted by the brain, what type of therapy is this?” What perspective deals with chemical imbalances in the brain? Cognitive, therefore, the correct answer will probably be along the lines of cognitive therapy. 

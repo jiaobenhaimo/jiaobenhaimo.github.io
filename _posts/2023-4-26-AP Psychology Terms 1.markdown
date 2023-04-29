@@ -180,11 +180,15 @@ Reticular Formation – screens incoming info, and filters out irrelevant info, 
 
 Thalamus – the brains sensory switchboard
 
-Pons – above the medulla, makes chemicals involved with sleep & facial expressions Cerebellum – the little brain attached to the rear of the brain stem, controls coordination, fire muscles movements and balance
+Pons – above the medulla, makes chemicals involved with sleep & facial expressions 
+
+Cerebellum – the little brain attached to the rear of the brain stem, controls coordination, fire muscles movements and balance
 
 Limbic System – associated with emotions like aggression and fear and drives such as hunger and thirst and sex (Hippocampus, Hypothalamus, and Amygdala) 
 
-Amygdala – part of the limbic system that is involved in emotions, aggression, and fear Hypothalamus – controls the metabolic functions of body temp, sex arousal, hunger, thirst, motivation/emotions, and the endocrine system
+Amygdala – part of the limbic system that is involved in emotions, aggression, and fear 
+
+Hypothalamus – controls the metabolic functions of body temp, sex arousal, hunger, thirst, motivation/emotions, and the endocrine system
 
 Hippocampus – part of the limbic system involved in learning and memory
 
@@ -351,7 +355,9 @@ Negative Reinforcement – take away bad – reinforcing beh by eliminating aver
 
 Positive Punishment – add bad – reinforcing beh by adding pain/penalty/etc
 
-Negative Punishment – take away good – reinforcing beh by take away phone/keys/etc Primary Reinforces – stimuli that is satisfying and requires no learning food/water/sex
+Negative Punishment – take away good – reinforcing beh by take away phone/keys/etc 
+
+Primary Reinforces – stimuli that is satisfying and requires no learning food/water/sex
 
 Secondary Reinforces – stimuli that has acquired its reinforcing power thru experiences, money, praise, grades 
 
@@ -391,8 +397,7 @@ Recency effect – tendency to recall the last terms of list
 
 Mnemonic Devices – ways of remembering info by using creative memory techniques 
 
-Chunking – putting many number into parts, change 1, 2, 3, 4, 5, 6, 7, 8, 9 to 123, 465, 789
-(made 9 things into 3 = easier to remember)
+Chunking – putting many number into parts, change 1, 2, 3, 4, 5, 6, 7, 8, 9 to 123, 465, 789 (made 9 things into 3 = easier to remember)
 
 Sensory Memory – the immediate, very brief recording of sensory info 
 
