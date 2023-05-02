@@ -3,8 +3,7 @@ layout: post
 title: AP Psychology Essential
 category: Storage
 tag: English
-time: 2023-05-1 21
-:30:00 +0800
+time: 2023-05-01 11:30:00 +0800
 ---
 ### Major Schools & Representatives
 **Psychoanalytic/Psychodynamic**
