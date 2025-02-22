@@ -1,8 +1,8 @@
-title: Jacques Jiao's Blog
-author: Jacques Jiao
+title: 哥布林民族的究极神圣炫酷罗马帝国国家档案馆
+author: 哥布林民族的究极神圣炫酷罗马帝国立法院
 email: jiaobenhaimo@outlook.com
 description: 
- A ordinary high school student from Qingdao, China. Classical music, technology, & animé maniac. 
+ 为全体国民提供诏书及其他信息的查询服务
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /
 
@@ -13,9 +13,9 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Jacques Jiao's Blog
-  tagline: An ridiculous ordinary student. 
-  date_format: "%b %d, %Y"
+  title: 哥布林民族的究极神圣炫酷罗马帝国国家档案馆
+  tagline: 为全体国民提供诏书及其他国家信息的查询服务
+  date_format: "%Y年%m月%d日"
   style: black
   showNav: false
   showPicker: false
@@ -29,8 +29,8 @@ texture:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+- /consitution.md
 
 # Build settings
 # theme: texture
