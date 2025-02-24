@@ -1,9 +1,9 @@
 --- 
-layout: post
+layout: page
 title: 哥布林民族的究极神圣炫酷罗马帝国人员普查名册及政府职员名单
 category: 公告
-permalink: /:title
-time: 2025-2-23
+permalink: /:title/
+time: 2025-2-24
 ---
 # 哥布林民族的究极神圣炫酷罗马帝国人员普查名册及政府职员名单
 ### 最后更新于2025年2月23日

@@ -2,7 +2,7 @@
 layout: page
 title: 哥布林民族的究极神圣炫酷罗马帝国宪法
 category: 公告
-permalink: /:title
+permalink: /:title/
 time: 2024-12-25
 ---
 # 哥布林民族的究极神圣炫酷罗马帝国宪法
