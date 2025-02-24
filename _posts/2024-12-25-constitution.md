@@ -6,8 +6,6 @@ permalink: /:title/
 time: 2024-12-25
 ---
 # 哥布林民族的究极神圣炫酷罗马帝国宪法
-2024年11月25日
-### 诏书2024-11-003
 
 ## 一、总纲
 哥布林民族的究极神圣炫酷罗马帝国为艾略库·塞托-阿卡德米库斯·鎏金·焕·凯撒·哥布林诺斯（Ericus Seitō-Akademicus Liu-Chin Huan Caesar Gobelinus）哥太宗鎏金焕一世所统治的帝国。

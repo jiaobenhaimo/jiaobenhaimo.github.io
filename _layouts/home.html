@@ -3,16 +3,18 @@ layout: page
 ---
 {%- if site.posts.size > 0 -%}
 <ul class="posts">
-	{%- for post in site.posts -%}
-	<li>
-		{%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
-		<div class="post-meta">
-			<a class="post-link" href="{{ post.url | relative_url }}">
-				<h2 class="post-title">{{ post.title | escape }}</h2>
-			</a>
-			<div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
-		</div>
-	</li>
+	{%- for post in site.posts | where_exp: "post", "post.layout != 'page'" -%}
+	{%- unless post.layout == "page" -%}
+		<li>
+			{%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
+			<div class="post-meta">
+				<a class="post-link" href="{{ post.url | relative_url }}">
+					<h2 class="post-title">{{ post.title | escape }}</h2>
+				</a>
+				<div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
+			</div>
+		</li>
+	{%- endunless -%}
 	{%- endfor -%}
 </ul>
 {%- endif -%}

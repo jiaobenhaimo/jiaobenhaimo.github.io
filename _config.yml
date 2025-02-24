@@ -20,20 +20,8 @@ texture:
   showNav: false
   showPicker: false
 
-  # generate social links in footer
-  social_links:
-    twitter:  YuanzheJ
-    github: jiaobenhaimo
-    bilibili: 487270431
- 
-
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
-- /consitution.md
-
-# Build settings
-# theme: texture
 
 plugins:
   - jekyll-seo-tag
